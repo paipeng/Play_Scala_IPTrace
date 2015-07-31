@@ -1,0 +1,13 @@
+New log file opened at Fri Jul 31 13:15:08 CEST 2015 by 2637@Pais-Air.fritz.box
+Taking next connection to: 55896
+New client attempting to connect on port: 55897-55896
+  Address = /10.0.1.87:55896
+This client on port 55897 has uuid 7abaedb9-e238-488d-a317-47b21f6bc9d4 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-7abaedb9-e238-488d-a317-47b21f6bc9d4
+Taking next connection to: 55896
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 2637@Pais-Air.fritz.box logs at Fri Jul 31 13:18:09 CEST 2015, goodbye.
